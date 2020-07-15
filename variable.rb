@@ -1,2 +1,2 @@
 name = 'greeting'
-  puts "Hello World"
+  puts 'Hello World'
